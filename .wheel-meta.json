@@ -1,0 +1,22 @@
+{
+  "wheel_id": 633,
+  "structure": "umbrella",
+  "slug": "brisbaneconveyancers-103",
+  "project": "conveyancing-services-brisbane-checklist-9da4f985239b48a1fea54a",
+  "parent_t1_ref": "brisbaneconveyancers-151",
+  "node_role": "feeder",
+  "money_target": "brisbaneconveyancers.net.au",
+  "primary_kw": "conveyancing services brisbane checklist",
+  "intended_url": "https://sitesau.github.io/brisbaneconveyancers-103/",
+  "tier": "T2",
+  "writeback_nonce": "9a229c5713c993bd",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/conveyancing-services-brisbane-common-mistakes-5cb191ea44960/",
+      "anchor": "https://vercel-cloudsites-hub.vercel.app/sites-01/conveyancing-services-brisbane-common-mistakes-5cb191ea44960/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
